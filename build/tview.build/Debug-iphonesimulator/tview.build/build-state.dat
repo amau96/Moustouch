@@ -1,0 +1,605 @@
+Ttview
+v7
+r0
+t314751139.187600
+cCheck dependencies
+cProcessInfoPlistFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/Info.plist tview-Info.plist
+cCompileXIB /Users/amauryblanc/Documents/iphonz/tview/MainWindow.xib
+cCompileXIB /Users/amauryblanc/Documents/iphonz/tview/RootViewController.xib
+cCompileXIB /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.xib
+cCpResource build/Debug-iphonesimulator/tview.app/blue_diamond.png blue_diamond.png
+cCpResource build/Debug-iphonesimulator/tview.app/green_diamond.png green_diamond.png
+cCpResource build/Debug-iphonesimulator/tview.app/red_diamond.png red_diamond.png
+cCpResource build/Debug-iphonesimulator/tview.app/yellow_diamond.png yellow_diamond.png
+cCpResource build/Debug-iphonesimulator/tview.app/4.png 4.png
+cCpResource build/Debug-iphonesimulator/tview.app/1.png 1.png
+cCpResource build/Debug-iphonesimulator/tview.app/3.png 3.png
+cCpResource build/Debug-iphonesimulator/tview.app/2.png 2.png
+cProcessPCH /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch.gch tview_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/main.o /Users/amauryblanc/Documents/iphonz/tview/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/tviewAppDelegate.o /Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/RootViewController.o /Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/DetailViewController.o /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/AlphaMask.o /Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/clickThruButton.o /Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/tview normal i386
+cGenerateDSYMFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app.dSYM /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/tview
+cTouch /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C857A4F0000000000000132
+t1283816015
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/amauryblanc/Documents/iphonz/tview/1.png
+c000000004D0FACCA0000000000000DD5
+t1292872906
+s3541
+
+N/Users/amauryblanc/Documents/iphonz/tview/2.png
+c000000004D0FACD40000000000000C92
+t1292872916
+s3218
+
+N/Users/amauryblanc/Documents/iphonz/tview/3.png
+c000000004D0FACDE0000000000000C30
+t1292872926
+s3120
+
+N/Users/amauryblanc/Documents/iphonz/tview/4.png
+c000000004D0FACE700000000000010A0
+t1292872935
+s4256
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.h
+c000000004C8334620000000000000144
+t1283667042
+s324
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m
+c000000004C83351D000000000000157C
+t1283667229
+s5500
+i"AlphaMask.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.h
+c000000004D1245BE00000000000003FC
+t1293043134
+s1020
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m
+c000000004D1272160000000000000AE3
+t1293054486
+s2787
+i"DetailViewController.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.xib
+c000000004D1272C20000000000008A9C
+t1293054658
+s35484
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.h
+c000000004D0E33780000000000000121
+t1292776312
+s289
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m
+c000000004D0FEB1100000000000015C3
+t1292888849
+s5571
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.h
+c000000004C8223990000000000000092
+t1283597209
+s146
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m
+c000000004C8334620000000000000C99
+t1283667042
+s3225
+i"clickThruButton.h"
+i"AlphaMask.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.h
+c000000004D0E36B7000000000000029D
+t1292777143
+s669
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.m
+c000000004D0E3F130000000000000627
+t1292779283
+s1575
+i"patateVuControleur.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.xib
+c000000004D0E3968000000000000439C
+t1292777832
+s17308
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.h
+c000000004D0E32F300000000000001CE
+t1292776179
+s462
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m
+c000000004D0E32F40000000000000A96
+t1292776180
+s2710
+i"tviewAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/untitled.h
+c000000004D0E35BE00000000000000D3
+t1292776894
+s211
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/untitled.m
+c000000004D0E35BE0000000000000583
+t1292776894
+s1411
+i"untitled.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/untitled.xib
+c000000004D0E35BE0000000000001853
+t1292776894
+s6227
+
+N/Users/amauryblanc/Documents/iphonz/tview/MainWindow.xib
+c000000004D0E32F40000000000005FEC
+t1292776180
+s24556
+
+N/Users/amauryblanc/Documents/iphonz/tview/RootViewController.xib
+c000000004D0E32F40000000000004450
+t1292776180
+s17488
+
+N/Users/amauryblanc/Documents/iphonz/tview/blue_diamond.png
+c000000004BACD90E0000000000000E37
+t1269618958
+s3639
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app
+t1293054662
+s578
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app.dSYM
+t1293054487
+s102
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/1.png
+t1292873094
+s3541
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/2.png
+t1292873094
+s3218
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/3.png
+t1292873094
+s3120
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/4.png
+t1292873094
+s4256
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/DetailViewController.nib
+t1293054662
+s3517
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/Info.plist
+t1292776186
+s583
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/MainWindow.nib
+t1292776189
+s1507
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/PkgInfo
+t1292776186
+s8
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/RootViewController.nib
+t1292776189
+s979
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/blue_diamond.png
+t1292798882
+s3639
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/green_diamond.png
+t1292798882
+s3638
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/patateVuControleur.nib
+t1292777927
+s1215
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/red_diamond.png
+t1292798882
+s3645
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/tview
+t1293054487
+s34672
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/untitled.nib
+t2
+s0
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/yellow_diamond.png
+t1292798882
+s3660
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/AlphaMask.o
+t1292798883
+s15364
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/DetailViewController.o
+t1293054487
+s48556
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/RootViewController.o
+t1293043158
+s42520
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/clickThruButton.o
+t1292798883
+s41444
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/main.o
+t1292776190
+s6308
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/patateVuControleur.o
+t1292779284
+s37756
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/tview.LinkFileList
+c000000004D0E8BA20000000000000310
+t1292798882
+s784
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/tviewAppDelegate.o
+t1292776312
+s49424
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Users/amauryblanc/Documents/iphonz/tview/green_diamond.png
+c000000004BACDA300000000000000E36
+t1269619248
+s3638
+
+N/Users/amauryblanc/Documents/iphonz/tview/main.m
+c000000004D0E32F40000000000000168
+t1292776180
+s360
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/red_diamond.png
+c000000004BACD8FB0000000000000E3D
+t1269618939
+s3645
+
+N/Users/amauryblanc/Documents/iphonz/tview/tview_Prefix.pch
+c000000004D0E32F4000000000000013C
+t1292776180
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/yellow_diamond.png
+c000000004BACD9320000000000000E4C
+t1269618994
+s3660
+
+N/var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch.gch
+t1292776190
+s15232016
+
+Ntview-Info.plist
+c000000004D0E32F4000000000000038D
+t1292776180
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314751139#314751139#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/AlphaMask.o /Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314491683.525199
+e314491683.681740
+r1
+xCompileC
+xbuild/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/AlphaMask.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m314491683#314491683#0(0"0(0#0#61"/Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m8604827840#1912"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-generated-files.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-own-target-headers.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-all-target-headers.hmap -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-project-headers.hmap -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/include -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources/i386 -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m -o /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/AlphaMask.o0#
+
+CCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/DetailViewController.o /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314747286.921264
+e314747287.249152
+r1
+xCompileC
+xbuild/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/DetailViewController.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m: In function '-[DetailViewController viewDidLoad]':
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m:51: warning: unused variable 'frame'
+lSLF07#2@80"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m314747286#314747287#0(235"/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m: In function '-[DetailViewController viewDidLoad]':/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m:51: warning: unused variable 'frame'1(22@23"Unused variable 'frame'314747287#125#110#0(6@72"/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m314747286#51#0#51#0#19"unused variable '*'0(0#0#72"/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m8615505600#1934"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-generated-files.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-own-target-headers.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-all-target-headers.hmap -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-project-headers.hmap -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/include -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources/i386 -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m -o /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/RootViewController.o /Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314735958.003656
+e314735958.187958
+r1
+xCompileC
+xbuild/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/RootViewController.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController shouldAutorotateToInterfaceOrientation:]':
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:80: warning: control reaches end of non-void function
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:113: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@78"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m314735958#314735958#0(696"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController shouldAutorotateToInterfaceOrientation:]':/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:80: warning: control reaches end of non-void function/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:113: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)2(22@40"Control reaches end of non-void function314735958#149#125#0(6@70"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m314581649#80#0#80#0#40"control reaches end of non-void function0(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)314735958#416#280#0(6@70"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m314581649#113#0#113#0#33"'*' is deprecated (declared at *)0(0#0#70"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m8614107168#1930"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-generated-files.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-own-target-headers.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-all-target-headers.hmap -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-project-headers.hmap -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/include -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources/i386 -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m -o /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/clickThruButton.o /Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314491683.535749
+e314491683.696306
+r1
+xCompileC
+xbuild/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/clickThruButton.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m314491683#314491683#0(0"0(0#0#67"/Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m8603909184#1924"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-generated-files.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-own-target-headers.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-all-target-headers.hmap -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-project-headers.hmap -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/include -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources/i386 -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m -o /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/clickThruButton.o0#
+
+CCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/main.o /Users/amauryblanc/Documents/iphonz/tview/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314468990.415470
+e314468990.688956
+r1
+xCompileC
+xbuild/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/main.o
+x/Users/amauryblanc/Documents/iphonz/tview/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/amauryblanc/Documents/iphonz/tview/main.m314468990#314468990#0(0"0(0#0#48"/Users/amauryblanc/Documents/iphonz/tview/main.m8596131648#1894"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-generated-files.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-own-target-headers.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-all-target-headers.hmap -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-project-headers.hmap -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/include -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources/i386 -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/main.m -o /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/main.o0#
+
+CCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/patateVuControleur.o /Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314472084.453702
+e314472084.562104
+r1
+xCompileC
+xbuild/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/patateVuControleur.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.m314472084#314472084#0(0"0(0#0#70"/Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.m8612007584#1930"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-generated-files.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-own-target-headers.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-all-target-headers.hmap -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-project-headers.hmap -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/include -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources/i386 -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.m -o /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/patateVuControleur.o0#
+
+CCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/tviewAppDelegate.o /Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314469112.281294
+e314469112.471667
+r1
+xCompileC
+xbuild/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/tviewAppDelegate.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m314469112#314469112#0(0"0(0#0#68"/Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m8610902880#1926"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-generated-files.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-own-target-headers.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-all-target-headers.hmap -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-project-headers.hmap -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/include -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources/i386 -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m -o /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/tviewAppDelegate.o0#
+
+CCompileC build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/untitled.o /Users/amauryblanc/Documents/iphonz/tview/Classes/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.xib
+s314747461.877027
+e314747462.612192
+r1
+xCompileXIB
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.xib
+lSLF07#2@43"CompileXIB Classes/DetailViewController.xib314747461#314747462#0(0"0(0#0#74"/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.xib8608225312#605"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/DetailViewController.nib /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.xib
+s314470727.122476
+e314470727.714764
+r1
+xCompileXIB
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.xib
+lSLF07#2@41"CompileXIB Classes/patateVuControleur.xib314470727#314470727#0(0"0(0#0#72"/Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.xib8611887200#601"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/patateVuControleur.nib /Users/amauryblanc/Documents/iphonz/tview/Classes/patateVuControleur.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/amauryblanc/Documents/iphonz/tview/Classes/untitled.xib
+r0
+
+CCompileXIB /Users/amauryblanc/Documents/iphonz/tview/MainWindow.xib
+s314468986.581218
+e314468989.241061
+r1
+xCompileXIB
+x/Users/amauryblanc/Documents/iphonz/tview/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314468986#314468989#0(0"0(0#0#56"/Users/amauryblanc/Documents/iphonz/tview/MainWindow.xib8609324224#577"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/MainWindow.nib /Users/amauryblanc/Documents/iphonz/tview/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/amauryblanc/Documents/iphonz/tview/RootViewController.xib
+s314468986.582636
+e314468989.223371
+r1
+xCompileXIB
+x/Users/amauryblanc/Documents/iphonz/tview/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib314468986#314468989#0(0"0(0#0#64"/Users/amauryblanc/Documents/iphonz/tview/RootViewController.xib8609113568#593"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/RootViewController.nib /Users/amauryblanc/Documents/iphonz/tview/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/tview.app/1.png 1.png
+s314565894.629656
+e314565894.714109
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tview.app/1.png
+x1.png
+lSLF07#2@10"Copy 1.png314565894#314565894#0(0"0(0#0#47"/Users/amauryblanc/Documents/iphonz/tview/1.png8616285792#456"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/amauryblanc/Documents/iphonz/tview/1.png /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app0#
+
+CCpResource build/Debug-iphonesimulator/tview.app/2.png 2.png
+s314565894.681269
+e314565894.714298
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tview.app/2.png
+x2.png
+lSLF07#2@10"Copy 2.png314565894#314565894#0(0"0(0#0#47"/Users/amauryblanc/Documents/iphonz/tview/2.png8615678336#456"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/amauryblanc/Documents/iphonz/tview/2.png /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app0#
+
+CCpResource build/Debug-iphonesimulator/tview.app/3.png 3.png
+s314565894.640722
+e314565894.710328
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tview.app/3.png
+x3.png
+lSLF07#2@10"Copy 3.png314565894#314565894#0(0"0(0#0#47"/Users/amauryblanc/Documents/iphonz/tview/3.png8617973440#456"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/amauryblanc/Documents/iphonz/tview/3.png /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app0#
+
+CCpResource build/Debug-iphonesimulator/tview.app/4.png 4.png
+s314565894.627708
+e314565894.710067
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tview.app/4.png
+x4.png
+lSLF07#2@10"Copy 4.png314565894#314565894#0(0"0(0#0#47"/Users/amauryblanc/Documents/iphonz/tview/4.png8616424896#456"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/amauryblanc/Documents/iphonz/tview/4.png /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app0#
+
+CCpResource build/Debug-iphonesimulator/tview.app/blue_diamond.png blue_diamond.png
+s314491682.715924
+e314491682.801037
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tview.app/blue_diamond.png
+xblue_diamond.png
+lSLF07#2@21"Copy blue_diamond.png314491682#314491682#0(0"0(0#0#58"/Users/amauryblanc/Documents/iphonz/tview/blue_diamond.png8614021088#467"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/amauryblanc/Documents/iphonz/tview/blue_diamond.png /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app0#
+
+CCpResource build/Debug-iphonesimulator/tview.app/green_diamond.png green_diamond.png
+s314491682.717492
+e314491682.801313
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tview.app/green_diamond.png
+xgreen_diamond.png
+lSLF07#2@22"Copy green_diamond.png314491682#314491682#0(0"0(0#0#59"/Users/amauryblanc/Documents/iphonz/tview/green_diamond.png8613958752#468"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/amauryblanc/Documents/iphonz/tview/green_diamond.png /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app0#
+
+CCpResource build/Debug-iphonesimulator/tview.app/red_diamond.png red_diamond.png
+s314491682.724139
+e314491682.801532
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tview.app/red_diamond.png
+xred_diamond.png
+lSLF07#2@20"Copy red_diamond.png314491682#314491682#0(0"0(0#0#57"/Users/amauryblanc/Documents/iphonz/tview/red_diamond.png8603629856#466"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/amauryblanc/Documents/iphonz/tview/red_diamond.png /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app0#
+
+CCpResource build/Debug-iphonesimulator/tview.app/yellow_diamond.png yellow_diamond.png
+s314491682.726677
+e314491682.801823
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/tview.app/yellow_diamond.png
+xyellow_diamond.png
+lSLF07#2@23"Copy yellow_diamond.png314491682#314491682#0(0"0(0#0#60"/Users/amauryblanc/Documents/iphonz/tview/yellow_diamond.png8599704512#469"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/amauryblanc/Documents/iphonz/tview/yellow_diamond.png /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app0#
+
+CGenerateDSYMFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app.dSYM /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/tview
+s314747287.291820
+e314747287.340359
+r1
+xGenerateDSYMFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app.dSYM
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/tview
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/tview.app.dSYM build/Debug-iphonesimulator/tview.app/tview314747287#314747287#0(0"0(0#0#85"/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/tview8615499168#386"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/tview -o /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app.dSYM0#
+
+CLd /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/tview normal i386
+s314747287.249274
+e314747287.291681
+r1
+xLd
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/tview
+xnormal
+xi386
+lSLF07#2@90"Link /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/tview314747287#314747287#0(0"0(0#0#0"8613739392#905"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator -filelist /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/Objects-normal/i386/tview.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/tview0#
+
+CProcessInfoPlistFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/Info.plist tview-Info.plist
+s314468986.549523
+e314468986.581083
+r1
+xProcessInfoPlistFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/Info.plist
+xtview-Info.plist
+lSLF07#2@24"Process tview-Info.plist314468986#314468986#0(0"0(0#0#58"/Users/amauryblanc/Documents/iphonz/tview/tview-Info.plist29555065834897524#482"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility tview-Info.plist -genpkginfo /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app/Info.plist0#
+
+CProcessPCH /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch.gch tview_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314468989.241598
+e314468990.415333
+r1
+xProcessPCH
+x/var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch.gch
+xtview_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile tview_Prefix.pch314468989#314468990#0(0"0(0#0#58"/Users/amauryblanc/Documents/iphonz/tview/tview_Prefix.pch8609852864#1785"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-generated-files.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-own-target-headers.hmap -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-all-target-headers.hmap -iquote /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/tview-project-headers.hmap -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/include -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources/i386 -I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphonesimulator/tview.build/DerivedSources -c /Users/amauryblanc/Documents/iphonz/tview/tview_Prefix.pch -o /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-civfeugaqjhswzbpfjwuhbnegmlu/tview_Prefix.pch.gch0#
+
+CTouch /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app
+s314747462.613537
+e314747462.617532
+r1
+xTouch
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app
+lSLF07#2@85"Touch /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app314747462#314747462#0(0"0(0#0#0"8613982400#282"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphonesimulator/tview.app0#
+

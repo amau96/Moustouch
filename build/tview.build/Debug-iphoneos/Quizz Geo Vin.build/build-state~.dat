@@ -1,0 +1,1298 @@
+TQuizz Geo Vin
+v7
+r0
+t314844581.513965
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004D1275EA0000000000000132
+t1293055466
+s306
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C5B401F00000000000001E5
+t1281048607
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/Availability.h
+c000000004BF4D50E0000000000001A3B
+t1274336526
+s6715
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Users/amauryblanc/Documents/iphonz/tview/../../../Desktop/default.png
+c000000004D1290C700000000000407B7
+t1293062343
+s264119
+
+N/Users/amauryblanc/Documents/iphonz/tview/../../../Desktop/icone.png
+c000000004D1289F80000000000002C17
+t1293060600
+s11287
+
+N/Users/amauryblanc/Documents/iphonz/tview/1.png
+c000000004D0FACCA0000000000000DD5
+t1292872906
+s3541
+
+N/Users/amauryblanc/Documents/iphonz/tview/2.png
+c000000004D0FACD40000000000000C92
+t1292872916
+s3218
+
+N/Users/amauryblanc/Documents/iphonz/tview/3.png
+c000000004D0FACDE0000000000000C30
+t1292872926
+s3120
+
+N/Users/amauryblanc/Documents/iphonz/tview/4.png
+c000000004D0FACE700000000000010A0
+t1292872935
+s4256
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.h
+c000000004C8334620000000000000144
+t1283667042
+s324
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m
+c000000004C83351D000000000000157C
+t1283667229
+s5500
+i"AlphaMask.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.h
+c000000004D1245BE00000000000003FC
+t1293043134
+s1020
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m
+c000000004D1272160000000000000AE3
+t1293054486
+s2787
+i"DetailViewController.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.xib
+c000000004D1272C20000000000008A9C
+t1293054658
+s35484
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.h
+c000000004D0E33780000000000000121
+t1292776312
+s289
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m
+c000000004D0FEB1100000000000015C3
+t1292888849
+s5571
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.h
+c000000004C8223990000000000000092
+t1283597209
+s146
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m
+c000000004C8334620000000000000C99
+t1283667042
+s3225
+i"clickThruButton.h"
+i"AlphaMask.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.h
+c000000004D0E32F300000000000001CE
+t1292776179
+s462
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m
+c000000004D0E32F40000000000000A96
+t1292776180
+s2710
+i"tviewAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/amauryblanc/Documents/iphonz/tview/Default.png
+c000000004D12920D000000000000B50E
+t1293062669
+s46350
+
+N/Users/amauryblanc/Documents/iphonz/tview/MainWindow.xib
+c000000004D0E32F40000000000005FEC
+t1292776180
+s24556
+
+N/Users/amauryblanc/Documents/iphonz/tview/RootViewController.xib
+c000000004D0E32F40000000000004450
+t1292776180
+s17488
+
+N/Users/amauryblanc/Documents/iphonz/tview/blue_diamond.png
+c000000004BACD90E0000000000000E37
+t1269618958
+s3639
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app
+t1293062684
+s714
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app.dSYM
+t1293061050
+s102
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/1.png
+t1293061047
+s3192
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/2.png
+t1293061047
+s3096
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/3.png
+t1293061047
+s2968
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/4.png
+t1293061047
+s3693
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Default.png
+t1293062683
+s38282
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/DetailViewController.nib
+t1293061048
+s3520
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Info.plist
+t1293061045
+s785
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/MainWindow.nib
+t1293061047
+s1507
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/PkgInfo
+t1293061045
+s8
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin
+t1293061050
+s93440
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/ResourceRules.plist
+t1293061045
+s485
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/RootViewController.nib
+t1293061047
+s979
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/blue_diamond.png
+t1293061047
+s3731
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/default.png
+t1293062683
+s38282
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/green_diamond.png
+t1293061047
+s3763
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/icone.png
+t1293062539
+s10727
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/red_diamond.png
+t1293061047
+s3625
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/yellow_diamond.png
+t1293061047
+s3758
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app
+t1293060754
+s680
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app.dSYM
+t1293058830
+s102
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/1.png
+t1293058824
+s3192
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/2.png
+t1293058825
+s3096
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/3.png
+t1293058825
+s2968
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/4.png
+t1293058824
+s3693
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/DetailViewController.nib
+t1293058824
+s3514
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/Info.plist
+t1293060754
+s753
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/MainWindow.nib
+t1293058824
+s1507
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/PkgInfo
+t1293060754
+s8
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/ResourceRules.plist
+t1293058822
+s485
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/RootViewController.nib
+t1293058823
+s979
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/blue_diamond.png
+t1293058824
+s3731
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/green_diamond.png
+t1293058824
+s3763
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/icone.png
+t1293060671
+s10727
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/red_diamond.png
+t1293058824
+s3625
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/tview
+t1293058829
+s93392
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/yellow_diamond.png
+t1293058824
+s3758
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/AlphaMask.o
+t1293061050
+s15572
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/DetailViewController.o
+t1293061049
+s47544
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/Quizz Geo Vin
+t1293061050
+s38768
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/Quizz Geo Vin.LinkFileList
+c000000004D128BB5000000000000031C
+t1293061045
+s796
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/RootViewController.o
+t1293061049
+s42368
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/clickThruButton.o
+t1293061050
+s41136
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/main.o
+t1293061049
+s6504
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/tview
+t2
+s0
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/tview.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/tviewAppDelegate.o
+t1293061049
+s49156
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/AlphaMask.o
+t1293061050
+s15572
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/DetailViewController.o
+t1293061050
+s47544
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/Quizz Geo Vin
+t1293061050
+s38768
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/Quizz Geo Vin.LinkFileList
+c000000004D128BB5000000000000031C
+t1293061045
+s796
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/RootViewController.o
+t1293061050
+s42368
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/clickThruButton.o
+t1293061050
+s41136
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/main.o
+t1293061050
+s6504
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/tview
+t2
+s0
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/tview.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/tviewAppDelegate.o
+t1293061050
+s49156
+
+N/Users/amauryblanc/Documents/iphonz/tview/default.png
+c000000004D12920D000000000000B50E
+t1293062669
+s46350
+
+N/Users/amauryblanc/Documents/iphonz/tview/green_diamond.png
+c000000004BACDA300000000000000E36
+t1269619248
+s3638
+
+N/Users/amauryblanc/Documents/iphonz/tview/icone.png
+c000000004D1289F80000000000002C17
+t1293060600
+s11287
+
+N/Users/amauryblanc/Documents/iphonz/tview/main.m
+c000000004D0E32F40000000000000168
+t1292776180
+s360
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/red_diamond.png
+c000000004BACD8FB0000000000000E3D
+t1269618939
+s3645
+
+N/Users/amauryblanc/Documents/iphonz/tview/tview_Prefix.pch
+c000000004D0E32F4000000000000013C
+t1292776180
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/amauryblanc/Documents/iphonz/tview/yellow_diamond.png
+c000000004BACD9320000000000000E4C
+t1269618994
+s3660
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/../../../Desktop/default.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/1.png
+c000000004D0FACCA0000000000000DD5
+t1292872906
+s3541
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/2.png
+c000000004D0FACD40000000000000C92
+t1292872916
+s3218
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/3.png
+c000000004D1296200000000000000C66
+t1293063712
+s3174
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/4.png
+c000000004D0FACE700000000000010A0
+t1292872935
+s4256
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Classes/AlphaMask.h
+c000000004C8334620000000000000144
+t1283667042
+s324
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Classes/AlphaMask.m
+c000000004C83351D000000000000157C
+t1283667229
+s5500
+i"AlphaMask.h"
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Classes/DetailViewController.h
+c000000004D1245BE00000000000003FC
+t1293043134
+s1020
+i<UIKit/UIKit.h>
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Classes/DetailViewController.m
+c000000004D1272160000000000000AE3
+t1293054486
+s2787
+i"DetailViewController.h"
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Classes/DetailViewController.xib
+c000000004D1298990000000000008A9C
+t1293064345
+s35484
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Classes/RootViewController.h
+c000000004D0E33780000000000000121
+t1292776312
+s289
+i<UIKit/UIKit.h>
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Classes/RootViewController.m
+c000000004D0FEB1100000000000015C3
+t1292888849
+s5571
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Classes/clickThruButton.h
+c000000004C8223990000000000000092
+t1283597209
+s146
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Classes/clickThruButton.m
+c000000004C8334620000000000000C99
+t1283667042
+s3225
+i"clickThruButton.h"
+i"AlphaMask.h"
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Classes/tviewAppDelegate.h
+c000000004D0E32F300000000000001CE
+t1292776179
+s462
+i<UIKit/UIKit.h>
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Classes/tviewAppDelegate.m
+c000000004D0E32F40000000000000A96
+t1292776180
+s2710
+i"tviewAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/Default.png
+c000000004D12920D000000000000B50E
+t1293062669
+s46350
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/MainWindow.xib
+c000000004D0E32F40000000000005FEC
+t1292776180
+s24556
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/RootViewController.xib
+c000000004D0E32F40000000000004450
+t1292776180
+s17488
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app.dSYM
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/1.png
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/2.png
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/3.png
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/4.png
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Default.png
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/DetailViewController.nib
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Info.plist
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/MainWindow.nib
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/PkgInfo
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/ResourceRules.plist
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/RootViewController.nib
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/default.png
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/icone.png
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/AlphaMask.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/DetailViewController.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/Quizz Geo Vin
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/Quizz Geo Vin.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/clickThruButton.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/tviewAppDelegate.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/AlphaMask.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/DetailViewController.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/Quizz Geo Vin
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/Quizz Geo Vin.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/clickThruButton.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/tviewAppDelegate.o
+t2
+s0
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/default.png
+c000000004D12920D000000000000B50E
+t1293062669
+s46350
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/icone.png
+c000000004D1289F80000000000002C17
+t1293060600
+s11287
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/main.m
+c000000004D0E32F40000000000000168
+t1292776180
+s360
+i<UIKit/UIKit.h>
+
+N/Users/xavierbourgouin/Documents/deviPhone/tview/tview_Prefix.pch
+c000000004D0E32F4000000000000013C
+t1292776180
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-brdhjiwvabvcgchivnjcckrrngas/tview_Prefix.pch.gch
+t1293058827
+s9827888
+
+N/var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-eeqegvvizumybogomulkrkikgaem/tview_Prefix.pch.gch
+t1293058828
+s10286640
+
+N/var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-gfgsthvsyeqviudzkhhlfqysppgk/tview_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-hcqvzjvpgrjzsudleqhlszrgollw/tview_Prefix.pch.gch
+t2
+s0
+
+Ntview-Info.plist
+c000000004D128A910000000000000396
+t1293060753
+s918
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314844591#314844591#0(142"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Quizz-Geo-Vin' could not be found1(4@134"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Quizz-Geo-Vin' could not be found314844591#18446744073709551615#0#0(1@0"0(0#1#0"8616679936#0"0#
+
+CCodeSign "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app"
+s314755483.819381
+e314755484.094239
+r1
+xCodeSign
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app
+o/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app: replacing existing signature
+lSLF07#2@49"CodeSign "build/Debug-iphoneos/Quizz Geo Vin.app"314755483#314755484#0(111"/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app: replacing existing signature0(0#0#80"/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app8629623392#529"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer" "--resource-rules=/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/ResourceRules.plist" "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app"0#
+
+CCodeSign /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/AlphaMask.o" /Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314753849.869506
+e314753850.009899
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/AlphaMask.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m314753849#314753850#0(0"0(0#0#61"/Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m8624259328#1840"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv6" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-brdhjiwvabvcgchivnjcckrrngas/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/AlphaMask.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/AlphaMask.o" /Users/xavierbourgouin/Documents/deviPhone/tview/Classes/AlphaMask.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/DetailViewController.o" /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314753849.701486
+e314753849.929305
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/DetailViewController.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m: In function '-[DetailViewController viewDidLoad]':
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m:51: warning: unused variable 'frame'
+lSLF07#2@80"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m314753849#314753849#0(235"/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m: In function '-[DetailViewController viewDidLoad]':/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m:51: warning: unused variable 'frame'1(22@23"Unused variable 'frame'314753849#125#110#0(6@72"/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m314747286#51#0#51#0#19"unused variable '*'0(0#0#72"/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m8626488960#1862"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv6" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-brdhjiwvabvcgchivnjcckrrngas/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/DetailViewController.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/DetailViewController.o" /Users/xavierbourgouin/Documents/deviPhone/tview/Classes/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/RootViewController.o" /Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314753849.698552
+e314753849.869367
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/RootViewController.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController shouldAutorotateToInterfaceOrientation:]':
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:80: warning: control reaches end of non-void function
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:113: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@78"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m314753849#314753849#0(682"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController shouldAutorotateToInterfaceOrientation:]':/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:80: warning: control reaches end of non-void function/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:113: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)2(22@40"Control reaches end of non-void function314753849#149#125#0(6@70"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m314581649#80#0#80#0#40"control reaches end of non-void function0(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)314753849#416#266#0(6@70"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m314581649#113#0#113#0#33"'*' is deprecated (declared at *)0(0#0#70"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m8621623008#1858"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv6" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-brdhjiwvabvcgchivnjcckrrngas/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/RootViewController.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/RootViewController.o" /Users/xavierbourgouin/Documents/deviPhone/tview/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/clickThruButton.o" /Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314753849.929452
+e314753850.111614
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/clickThruButton.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m314753849#314753850#0(0"0(0#0#67"/Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m8619361472#1852"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv6" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-brdhjiwvabvcgchivnjcckrrngas/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/clickThruButton.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/clickThruButton.o" /Users/xavierbourgouin/Documents/deviPhone/tview/Classes/clickThruButton.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/main.o" /Users/amauryblanc/Documents/iphonz/tview/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314753848.469235
+e314753849.698265
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/main.o
+x/Users/amauryblanc/Documents/iphonz/tview/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/amauryblanc/Documents/iphonz/tview/main.m314753848#314753849#0(0"0(0#0#48"/Users/amauryblanc/Documents/iphonz/tview/main.m8625522144#1822"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv6" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-brdhjiwvabvcgchivnjcckrrngas/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/main.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/main.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/main.o" /Users/xavierbourgouin/Documents/deviPhone/tview/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/tviewAppDelegate.o" /Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s314753848.472118
+e314753849.701339
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/tviewAppDelegate.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m314753848#314753849#0(0"0(0#0#68"/Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m8625300416#1854"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv6" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-brdhjiwvabvcgchivnjcckrrngas/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/tviewAppDelegate.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/tviewAppDelegate.o" /Users/xavierbourgouin/Documents/deviPhone/tview/Classes/tviewAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/AlphaMask.o" /Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314753850.513475
+e314753850.682332
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/AlphaMask.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m314753850#314753850#0(0"0(0#0#61"/Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m8626225120#1840"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv7" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-eeqegvvizumybogomulkrkikgaem/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/AlphaMask.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/AlphaMask.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/AlphaMask.o" /Users/xavierbourgouin/Documents/deviPhone/tview/Classes/AlphaMask.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/DetailViewController.o" /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314753850.377070
+e314753850.534710
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/DetailViewController.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m: In function '-[DetailViewController viewDidLoad]':
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m:51: warning: unused variable 'frame'
+lSLF07#2@80"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m314753850#314753850#0(235"/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m: In function '-[DetailViewController viewDidLoad]':/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m:51: warning: unused variable 'frame'1(22@23"Unused variable 'frame'314753850#125#110#0(6@72"/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m314747286#51#0#51#0#19"unused variable '*'0(0#0#72"/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m8625286688#1862"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv7" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-eeqegvvizumybogomulkrkikgaem/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/DetailViewController.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/DetailViewController.o" /Users/xavierbourgouin/Documents/deviPhone/tview/Classes/DetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/RootViewController.o" /Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314753850.237727
+e314753850.376926
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/RootViewController.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController shouldAutorotateToInterfaceOrientation:]':
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:80: warning: control reaches end of non-void function
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:113: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@78"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m314753850#314753850#0(682"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController shouldAutorotateToInterfaceOrientation:]':/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:80: warning: control reaches end of non-void function/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m:113: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)2(22@40"Control reaches end of non-void function314753850#149#125#0(6@70"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m314581649#80#0#80#0#40"control reaches end of non-void function0(22@180"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)314753850#416#266#0(6@70"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m314581649#113#0#113#0#33"'*' is deprecated (declared at *)0(0#0#70"/Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m8627147040#1858"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv7" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-eeqegvvizumybogomulkrkikgaem/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/RootViewController.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/RootViewController.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/RootViewController.o" /Users/xavierbourgouin/Documents/deviPhone/tview/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/clickThruButton.o" /Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314753850.534856
+e314753850.713218
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/clickThruButton.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m314753850#314753850#0(0"0(0#0#67"/Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m8625782464#1852"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv7" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-eeqegvvizumybogomulkrkikgaem/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/clickThruButton.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/clickThruButton.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/clickThruButton.o" /Users/xavierbourgouin/Documents/deviPhone/tview/Classes/clickThruButton.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/main.o" /Users/amauryblanc/Documents/iphonz/tview/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314753850.010045
+e314753850.115585
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/main.o
+x/Users/amauryblanc/Documents/iphonz/tview/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/amauryblanc/Documents/iphonz/tview/main.m314753850#314753850#0(0"0(0#0#48"/Users/amauryblanc/Documents/iphonz/tview/main.m8627276736#1822"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv7" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-eeqegvvizumybogomulkrkikgaem/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/main.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/main.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/main.o" /Users/xavierbourgouin/Documents/deviPhone/tview/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/tviewAppDelegate.o" /Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s314753850.115726
+e314753850.237577
+r1
+xCompileC
+xbuild/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/tviewAppDelegate.o
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m314753850#314753850#0(0"0(0#0#68"/Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m8627303616#1854"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=4.0 -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-generated-files.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-own-target-headers.hmap" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-all-target-headers.hmap" -iquote "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Quizz Geo Vin-project-headers.hmap" -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -I/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/include "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources/armv7" "-I/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/DerivedSources" -include /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-eeqegvvizumybogomulkrkikgaem/tview_Prefix.pch -c /Users/amauryblanc/Documents/iphonz/tview/Classes/tviewAppDelegate.m -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/tviewAppDelegate.o"0#
+
+CCompileC "build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/tviewAppDelegate.o" /Users/xavierbourgouin/Documents/deviPhone/tview/Classes/tviewAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.xib
+s314753847.193357
+e314753848.468932
+r1
+xCompileXIB
+x/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.xib
+lSLF07#2@43"CompileXIB Classes/DetailViewController.xib314753847#314753848#0(0"0(0#0#74"/Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.xib8626992704#587"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/DetailViewController.nib" /Users/amauryblanc/Documents/iphonz/tview/Classes/DetailViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/amauryblanc/Documents/iphonz/tview/MainWindow.xib
+s314753845.644377
+e314753847.252245
+r1
+xCompileXIB
+x/Users/amauryblanc/Documents/iphonz/tview/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314753845#314753847#0(0"0(0#0#56"/Users/amauryblanc/Documents/iphonz/tview/MainWindow.xib8627454208#559"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/MainWindow.nib" /Users/amauryblanc/Documents/iphonz/tview/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/amauryblanc/Documents/iphonz/tview/RootViewController.xib
+s314753845.645683
+e314753847.193095
+r1
+xCompileXIB
+x/Users/amauryblanc/Documents/iphonz/tview/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib314753845#314753847#0(0"0(0#0#64"/Users/amauryblanc/Documents/iphonz/tview/RootViewController.xib8626724992#575"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/RootViewController.nib" /Users/amauryblanc/Documents/iphonz/tview/RootViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/xavierbourgouin/Documents/deviPhone/tview/Classes/DetailViewController.xib
+r0
+
+CCompileXIB /Users/xavierbourgouin/Documents/deviPhone/tview/MainWindow.xib
+r0
+
+CCompileXIB /Users/xavierbourgouin/Documents/deviPhone/tview/RootViewController.xib
+r0
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/1.png" 1.png
+s314753847.553452
+e314753847.597709
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/1.png
+x1.png
+lSLF07#2@64"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/1.png" 1.png314753847#314753847#0(0"0(0#0#47"/Users/amauryblanc/Documents/iphonz/tview/1.png8626375264#567"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/1.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/1.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/2.png" 2.png
+s314753847.636095
+e314753847.679422
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/2.png
+x2.png
+lSLF07#2@64"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/2.png" 2.png314753847#314753847#0(0"0(0#0#47"/Users/amauryblanc/Documents/iphonz/tview/2.png8625270656#567"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/2.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/2.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/3.png" 3.png
+s314753847.597841
+e314753847.635959
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/3.png
+x3.png
+lSLF07#2@64"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/3.png" 3.png314753847#314753847#0(0"0(0#0#47"/Users/amauryblanc/Documents/iphonz/tview/3.png8626064512#567"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/3.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/3.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/4.png" 4.png
+s314753847.501664
+e314753847.553314
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/4.png
+x4.png
+lSLF07#2@64"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/4.png" 4.png314753847#314753847#0(0"0(0#0#47"/Users/amauryblanc/Documents/iphonz/tview/4.png8627200160#567"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/4.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/4.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Default.png" Default.png
+s314755483.265932
+e314755483.812616
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Default.png
+xDefault.png
+lSLF07#2@76"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/Default.png" Default.png314755483#314755483#0(0"0(0#0#53"/Users/amauryblanc/Documents/iphonz/tview/Default.png8629225632#579"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/Default.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Default.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/blue_diamond.png" blue_diamond.png
+s314753847.252374
+e314753847.305179
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/blue_diamond.png
+xblue_diamond.png
+lSLF07#2@86"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/blue_diamond.png" blue_diamond.png314753847#314753847#0(0"0(0#0#58"/Users/amauryblanc/Documents/iphonz/tview/blue_diamond.png8626419616#589"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/blue_diamond.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/blue_diamond.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/default.png" ../../../Desktop/default.png
+s314755339.251080
+e314755348.264517
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/default.png
+x../../../Desktop/default.png
+lSLF07#2@93"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/default.png" ../../../Desktop/default.png314755339#314755348#0(0"0(0#0#70"/Users/amauryblanc/Documents/iphonz/tview/../../../Desktop/default.png8625408672#596"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/../../../Desktop/default.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/default.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/default.png" default.png
+s314755483.264047
+e314755483.806852
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/default.png
+xdefault.png
+lSLF07#2@76"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/default.png" default.png314755483#314755483#0(0"0(0#0#53"/Users/amauryblanc/Documents/iphonz/tview/default.png8629599392#579"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/default.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/default.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/green_diamond.png" green_diamond.png
+s314753847.305317
+e314753847.365804
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/green_diamond.png
+xgreen_diamond.png
+lSLF07#2@88"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/green_diamond.png" green_diamond.png314753847#314753847#0(0"0(0#0#59"/Users/amauryblanc/Documents/iphonz/tview/green_diamond.png8626203808#591"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/green_diamond.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/green_diamond.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/icone.png" ../../../Desktop/icone.png
+s314755236.539720
+e314755236.787726
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/icone.png
+x../../../Desktop/icone.png
+lSLF07#2@89"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/icone.png" ../../../Desktop/icone.png314755236#314755236#0(0"0(0#0#68"/Users/amauryblanc/Documents/iphonz/tview/../../../Desktop/icone.png8623569568#592"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/../../../Desktop/icone.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/icone.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/icone.png" icone.png
+s314755339.254777
+e314755339.567267
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/icone.png
+xicone.png
+lSLF07#2@72"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/icone.png" icone.png314755339#314755339#0(0"0(0#0#51"/Users/amauryblanc/Documents/iphonz/tview/icone.png8625652832#575"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/icone.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/icone.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/red_diamond.png" red_diamond.png
+s314753847.365934
+e314753847.422166
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/red_diamond.png
+xred_diamond.png
+lSLF07#2@84"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/red_diamond.png" red_diamond.png314753847#314753847#0(0"0(0#0#57"/Users/amauryblanc/Documents/iphonz/tview/red_diamond.png8625066848#587"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/red_diamond.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/red_diamond.png"0#
+
+CCopyPNGFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/yellow_diamond.png" yellow_diamond.png
+s314753847.422310
+e314753847.501541
+r1
+xCopyPNGFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/yellow_diamond.png
+xyellow_diamond.png
+lSLF07#2@90"CopyPNGFile "build/Debug-iphoneos/Quizz Geo Vin.app/yellow_diamond.png" yellow_diamond.png314753847#314753847#0(0"0(0#0#60"/Users/amauryblanc/Documents/iphonz/tview/yellow_diamond.png8624949664#593"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/amauryblanc/Documents/iphonz/tview/yellow_diamond.png "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/yellow_diamond.png"0#
+
+CCopyPNGFile "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/1.png" 1.png
+r0
+
+CCopyPNGFile "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/2.png" 2.png
+r0
+
+CCopyPNGFile "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/3.png" 3.png
+r0
+
+CCopyPNGFile "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/4.png" 4.png
+r0
+
+CCopyPNGFile "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/default.png" ../../../Desktop/default.png
+r0
+
+CCopyPNGFile "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/default.png" default.png
+r0
+
+CCopyPNGFile "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/icone.png" icone.png
+r0
+
+CCopyPNGFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/1.png 1.png
+r0
+
+CCopyPNGFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/2.png 2.png
+r0
+
+CCopyPNGFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/3.png 3.png
+r0
+
+CCopyPNGFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/4.png 4.png
+r0
+
+CCopyPNGFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/blue_diamond.png blue_diamond.png
+r0
+
+CCopyPNGFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/green_diamond.png green_diamond.png
+r0
+
+CCopyPNGFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/icone.png ../../../Desktop/icone.png
+r0
+
+CCopyPNGFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/red_diamond.png red_diamond.png
+r0
+
+CCopyPNGFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/yellow_diamond.png yellow_diamond.png
+r0
+
+CCpResource "build/Debug-iphoneos/Quizz Geo Vin.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s314753845.578275
+e314753845.644266
+r1
+xCpResource
+xbuild/Debug-iphoneos/Quizz Geo Vin.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist314753845#314753845#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8625414080#494"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app"0#
+
+CCpResource "build/Debug-iphoneos/Quizz Geo Vin.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/tview.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin" normal "armv6 armv7"
+s314753850.793401
+e314753850.859859
+r1
+xCreateUniversalBinary
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin
+xnormal
+xarmv6 armv7
+lSLF07#2@97"CreateUniversalBinary "build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin" normal "armv6 armv7"314753850#314753850#0(0"0(0#0#53"/Users/amauryblanc/Documents/iphonz/tview/armv6 armv78625557824#568"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/Quizz Geo Vin" "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/Quizz Geo Vin" -output "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin"0#
+
+CCreateUniversalBinary "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin" normal "armv6 armv7"
+r0
+
+CCreateUniversalBinary /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/tview normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app.dSYM" "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin"
+s314753850.859994
+e314753850.995156
+r1
+xGenerateDSYMFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app.dSYM
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin
+lSLF07#2@117"GenerateDSYMFile "build/Debug-iphoneos/Quizz Geo Vin.app.dSYM" "build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin"314753850#314753850#0(0"0(0#0#94"/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin8620231968#393"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin" -o "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app.dSYM" "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Quizz Geo Vin"
+r0
+
+CGenerateDSYMFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app.dSYM /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/tview
+r0
+
+CLd "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/Quizz Geo Vin" normal armv6
+s314753850.111751
+e314753850.513327
+r1
+xLd
+x/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/Quizz Geo Vin
+xnormal
+xarmv6
+lSLF07#2@134"Link /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/Quizz Geo Vin314753850#314753850#0(0"0(0#0#0"8621691552#886"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -filelist "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/Quizz Geo Vin.LinkFileList" -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/Quizz Geo Vin"0#
+
+CLd "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/tview" normal armv6
+r0
+
+CLd "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/Quizz Geo Vin" normal armv7
+s314753850.713353
+e314753850.793262
+r1
+xLd
+x/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/Quizz Geo Vin
+xnormal
+xarmv7
+lSLF07#2@134"Link /Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/Quizz Geo Vin314753850#314753850#0(0"0(0#0#0"8626262752#886"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -F/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos -filelist "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/Quizz Geo Vin.LinkFileList" -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/Quizz Geo Vin"0#
+
+CLd "/Users/amauryblanc/Documents/iphonz/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/tview" normal armv7
+r0
+
+CLd "/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv6/Quizz Geo Vin" normal armv6
+r0
+
+CLd "/Users/xavierbourgouin/Documents/deviPhone/tview/build/tview.build/Debug-iphoneos/Quizz Geo Vin.build/Objects-normal/armv7/Quizz Geo Vin" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Info.plist" tview-Info.plist
+s314753845.584100
+e314753845.620260
+r1
+xProcessInfoPlistFile
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Info.plist
+xtview-Info.plist
+lSLF07#2@24"Process tview-Info.plist314753845#314753845#0(0"0(0#0#58"/Users/amauryblanc/Documents/iphonz/tview/tview-Info.plist8622990048#596"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility tview-Info.plist -genpkginfo "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/ResourceRules.plist" -o "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app/Info.plist" tview-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app/Info.plist tview-Info.plist
+r0
+
+CProcessPCH /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-brdhjiwvabvcgchivnjcckrrngas/tview_Prefix.pch.gch tview_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/K8/K8hKTKBFH+ysXinbJJr04U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-eeqegvvizumybogomulkrkikgaem/tview_Prefix.pch.gch tview_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-gfgsthvsyeqviudzkhhlfqysppgk/tview_Prefix.pch.gch tview_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/tview_Prefix-hcqvzjvpgrjzsudleqhlszrgollw/tview_Prefix.pch.gch tview_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app"
+s314755483.815179
+e314755483.819242
+r1
+xTouch
+x/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app
+lSLF07#2@86"Touch /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app314755483#314755483#0(0"0(0#0#0"8630825248#278"    cd /Users/amauryblanc/Documents/iphonz/tview    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/Quizz Geo Vin.app"0#
+
+CTouch "/Users/xavierbourgouin/Documents/deviPhone/tview/build/Debug-iphoneos/Quizz Geo Vin.app"
+r0
+
+CTouch /Users/amauryblanc/Documents/iphonz/tview/build/Debug-iphoneos/tview.app
+r0
+
